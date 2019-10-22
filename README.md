@@ -1,4 +1,8 @@
 # E08a-Paddle-Ball
+
+This new tool is wonderful!
+
+
 This is the first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
 Here are instructions for your first experience with the Godot engine:
